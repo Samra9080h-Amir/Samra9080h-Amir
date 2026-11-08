@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hey, I'm Your Name! 👋
+# Hey, I'm Samra Amir! 👋
 
 ### 💜 Full Stack Web Developer | Creative Problem Solver
 
@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Your Name**, a passionate Full Stack Developer who loves transforming ideas into beautiful and functional digital experiences.
+Hello! I'm **Samra Amir**, a passionate Full Stack Developer who loves transforming ideas into beautiful and functional digital experiences.
 
 - 🔭 Currently working on modern web applications.
 - 🌱 Learning advanced MERN Stack and AI integrations.
@@ -172,6 +172,6 @@ A modern dashboard with interactive components and organized data visualization.
 
 *Building today, innovating tomorrow.*
 
-⭐ From Your Name
+⭐ From Samra Amir
 
 </div>
